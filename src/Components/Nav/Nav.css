@@ -1,0 +1,20 @@
+.nav-bar {
+  background-color: orange;
+  height: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 30px;
+}
+
+.nav-buttons {
+  padding: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.nav-text {
+  font-weight: 800;
+  color: white;
+  font-size: 35px;
+}

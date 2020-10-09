@@ -1,0 +1,45 @@
+.auth {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: orange;
+  height: 100vh;
+}
+
+.auth-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.title {
+  font-size: 55px;
+  font-weight: 700;
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.helo-logo-auth {
+  height: 100px;
+  width: 100px;
+}
+
+.auth-input {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.auth-button {
+  padding: 10px;
+  background-color: #403d39;
+  color: #f2f2f2;
+  border-radius: 5px;
+  border: none;
+  margin-left: 30px;
+  margin-right: 30px;
+}
